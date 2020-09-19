@@ -1,1 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T09:52:02.736Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="f0mQtj8Kjz8yBPZPPJEb" version="13.7.3" type="device"><diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">7VtRc9o4EP41zNw9tGNZ2JjHBpK2d+lNZ9JJ7x6FvWAFY3lkESC//iQsY2wZQs4GJ71kkhm0lmTp2/1WuyvSw6PF+jMnSfiNBRD1bCtY9/C4Z9vItu2e+rWCjZYgG2WSGaeBlhWCO/oEWmhp6ZIGkJY6CsYiQZOy0GdxDL4oyQjnbFXuNmVR+a0JmYEhuPNJZEp/0kCEmdSz3UL+BegszN+M3GH2ZEL8+YyzZazf17PxdPuTPV6QfC690TQkAVvtifB1D484YyL7tFiPIFLg5rBl424OPN2tm0MsThlwO7v96sCPP67Gt56dXt/bf9LNh6HeTCo2OSAQSHx0k3ERshmLSXRdSK+2mwY1rSVbRZ9bxhIpRFL4AEJstLLJUjApCsUi0k/livnmbzX+o5M3/9HTbRvjdam10a1srWqBBzHQopQtuQ/HNq71KwifgTjWcbDTlSQBsAXIFcmBHCIi6GN5JUQb42zXr1CI/KB18hL96GU+kmipX/UXheUKpOyz1ENiqK9QjkJ6FVIBdwnZYrGSFC4rYkqjaMQixrdjcUDAm/pSngrO5rD3xPU9mEx3KngELmB9XAkmZHoA7mtGaJcx1M1VQT+Ukybco55rnQlkZFkGjP8TFgxOZYHXKQsGBgvuuXTMcUQfUqFGx4/LKIK4XTY44AX9OjZ49gS77nnYYFvd08Htgg6pNELxSZ3oUhCzGHLZDVXr10QI8h5+RNKU+plQd0Ets6Op0euh3xmNRaHxvlXWeL9f0WTGRj2qoszdMhqwyTPYJI8SSNQKSLwg81+CRxh1zyO7cx4VLNmnEipTSZOt4JF6c0DScKdwQ3M3N30LDdulG7IOaLhtvlmX5Zve1yHCzWBByFy0Srmp54NfG8hNPKfvWO1QblBh3KB7xpmBwiOTW1fJ568HuO10D7j37uIOq61lx2V7zkmOy5gIDZ+ZKPPN5/OAuzOgqwSrLw11L8X6YH20djnXgTRr2/oOnMrdA9fCloJUw9is7U/b56ku7jyb3SE0bGjADb3I0HDbNFa75ixY+oKCaT1RRJMUnvfTJE2yquGUrpUtVR03IBmeDupUMnQHmLQVnLoHQv49z+3VOG7vbI4bmYWlscyoZUI9T1VxyQ/BnxuwSwREBd+IzmJl6RIJxZIrhRP1SfRJP1jQIMjoDCl9IpPtVMrSE+VttvtyrnrOWM0lGZxmZEbt4O5UcMdezYmJaoC3zwe8GaKcybq1eyqdci1g2q/ack3BAtdhuhOeAVTLAPULwFQdgRMIAXggbbNRvNcCcG4lfOvjzsM3ZGYmOW4RBE3rAC1gNshrURozp/usHtkGZqHGbPRtfKVO7zh/0WsyN7f7wiIyK0+m7zOC9pIDK2UBryyIOnBTtIe3UwN3LmuYLOwuVHN1V6uKB2J8c6KKf3eGlYnOXS6x33L5+TJGiU42StupN8qXWZvcNdnsddCx2+HMtWKMXvVu+mX95YdsBe0aGjLTjp8kjkHFClZA/VDM4AkaFopK3qtaNZpO7fqqUeBOXKet5MPBJXAH3ZeNcNf1gBdduL6+mylN61McALbqjeNCqX2+0P3aN0z4ks6BSwdiLalyA7o6ey6eXegGyqk4MbdzntlvuTxbU5HFI8so3LZKq6Zf9jnxeMOXDqnMokN+A7V/zlm/BdltyYrC783o2Mn9SKXM7XWf8eCaBOedgEcMtWkh+jQCDquF1bMT0Aw1WSzmLEkgCqCdcsvRSLML/g1fQaDZyQHYcaB5mRw0P8NOCEGb5qANbcAsDueHX0yIOu4Svv324ISYNx5vPAZFVs1N06U5OHg/A19ELHyRMxAhPLzsIYjxQSJKo1/RhwB4oKJQ+bfYxqN3X8cN49BXdyiiXUW5Q0aaSfn9ngKqZP3Pt5HHwL/Qxfugin5NUt7SzbtsFv/Nk5Gm+J8pfP0v</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-19T09:15:13.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Kjusx_QILCWVuPZWCVBx" version="13.7.3" type="github">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="1422" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-96" target="LgLI5eTJBDL82sEV2Kiy-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-96" value="Nieuwe Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-97" target="LgLI5eTJBDL82sEV2Kiy-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-97" value="Vragenlijst invullen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-98" value="Groep aanmaken" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-101" value="Groep aangemaakt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-107" value="voor groep aangemaakt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="285" as="targetPoint" />
+            <mxPoint x="190" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-109" value="in productie" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-116" value="Dagelijkse check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="380" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="400" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-110" value="Heeft beheerder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-111" value="Heeft leden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="706" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-112" value="heeft CMDB entry" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-118" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-109" target="LgLI5eTJBDL82sEV2Kiy-117" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="640" as="sourcePoint" />
+            <mxPoint x="260" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-126" value="v" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-119" target="LgLI5eTJBDL82sEV2Kiy-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="740" />
+              <mxPoint x="400" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-119" value="Wanneer dichtgezet" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-125" value="Gebruikers uit groep" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#FF3C00;dashed=1;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-127" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-127" value="Groep dichtgezet (door wie)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#FF3C00;dashed=1;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-129" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-129" value="ontkoppelde leden" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-130" value="Groep naar prullenbak" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-133" value="Groep verwijderd ( met SID)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-135" value="Verwijderd" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="360" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXsXQZ-JvIiW82RLm4vk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.5" y="590" as="targetPoint" />
+            <mxPoint x="399.5" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXsXQZ-JvIiW82RLm4vk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#FF3C00;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="999.5" as="targetPoint" />
+            <mxPoint x="190" y="999.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
