@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T09:18:10.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HludPDZXZnUUXrNQif_2" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T09:19:06.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="SRTiwmoKsjOGtiuu9_mk" version="13.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1422" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LgLI5eTJBDL82sEV2Kiy-97" target="LgLI5eTJBDL82sEV2Kiy-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXsXQZ-JvIiW82RLm4vk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LgLI5eTJBDL82sEV2Kiy-97" target="iXsXQZ-JvIiW82RLm4vk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-97" value="Vragenlijst invullen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -125,6 +128,9 @@
             <mxPoint x="360.0007311436581" y="480.00391092309496" as="sourcePoint" />
             <mxPoint x="435.22298194585653" y="500.1087951855618" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iXsXQZ-JvIiW82RLm4vk-10" value="Naam groep&lt;br&gt;Manager&lt;br&gt;beheerder(s)" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
