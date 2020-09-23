@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T14:03:50.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="INgIRMstEdDJQNmpqAeN" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T14:13:39.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9R_XXj-AVFUEgs5hehcS" version="13.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1662" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -115,10 +115,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iXsXQZ-JvIiW82RLm4vk-10" value="Naam groep&lt;br&gt;Manager&lt;br&gt;beheerder(s)&lt;br&gt;doel groep&lt;br&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="540" y="165" width="120" height="130" as="geometry" />
+          <mxGeometry x="540" y="230" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="-dVvKd3Tszs87T_MMfwe-2" value="Verwijderen groep" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-dVvKd3Tszs87T_MMfwe-2" target="LgLI5eTJBDL82sEV2Kiy-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="160" />
+              <mxPoint x="430" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-dVvKd3Tszs87T_MMfwe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-dVvKd3Tszs87T_MMfwe-3" target="LgLI5eTJBDL82sEV2Kiy-97">
           <mxGeometry relative="1" as="geometry">
@@ -131,8 +137,26 @@
         <mxCell id="-dVvKd3Tszs87T_MMfwe-4" value="ophalen gegevens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="680" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LgLI5eTJBDL82sEV2Kiy-96" target="LgLI5eTJBDL82sEV2Kiy-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-96" value="Nieuwe Groep" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;" edge="1" parent="1" source="-dVvKd3Tszs87T_MMfwe-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="129.5" as="targetPoint" />
+            <mxPoint x="625" y="129.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="120" as="targetPoint" />
+            <mxPoint x="460" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-2" value="Verwijderen groep" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
