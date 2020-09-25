@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T07:05:23.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Owm79cKyxKCjXOPiZqZA" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T08:35:34.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="fztRAFb-V84_mvzLy4wx" version="13.7.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1662" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -47,8 +47,8 @@
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="425" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="LgLI5eTJBDL82sEV2Kiy-110" value="Heeft beheerder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-110" value="groepen IN AD bijgekomen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-111" value="Heeft leden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706" y="510" width="120" height="60" as="geometry" />
@@ -140,13 +140,13 @@
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-96" value="Nieuwe Groep" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-dVvKd3Tszs87T_MMfwe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-dVvKd3Tszs87T_MMfwe-2" edge="1" target="-dVvKd3Tszs87T_MMfwe-4">
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-dVvKd3Tszs87T_MMfwe-2" target="-dVvKd3Tszs87T_MMfwe-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="129.5" as="targetPoint" />
             <mxPoint x="625" y="129.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-dVvKd3Tszs87T_MMfwe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="-dVvKd3Tszs87T_MMfwe-4" source="-dVvKd3Tszs87T_MMfwe-3">
+        <mxCell id="-dVvKd3Tszs87T_MMfwe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;strokeColor=#FF4019;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-dVvKd3Tszs87T_MMfwe-3" target="-dVvKd3Tszs87T_MMfwe-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="110" as="targetPoint" />
             <mxPoint x="460" y="80" as="sourcePoint" />
@@ -157,6 +157,12 @@
         </mxCell>
         <mxCell id="iXsXQZ-JvIiW82RLm4vk-10" value="&lt;div&gt;Bekend zijn&amp;nbsp;&lt;span&gt;gebruiker en&amp;nbsp;&lt;/span&gt;&lt;span&gt;tijd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;invoeren formulier&lt;/div&gt;&lt;div&gt;Naam,&amp;nbsp;&lt;span&gt;soort,&amp;nbsp;&lt;/span&gt;&lt;span&gt;doel,&amp;nbsp;&lt;/span&gt;&lt;span&gt;manager&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Groep beheerder (ja/nee)&lt;/div&gt;&lt;div&gt;gebruiker (alle, groep, enkele)&lt;/div&gt;&lt;div&gt;levernacier,&amp;nbsp;&lt;span&gt;impact&lt;/span&gt;&lt;/div&gt;&lt;div&gt;oplossing (Cloud/On-premise)&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="550" y="155" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NY3luSExtvRI_ftLx-1Z-1" value="Heeft beheerder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NY3luSExtvRI_ftLx-1Z-2" value="groepen zijn in AD aangepast" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
