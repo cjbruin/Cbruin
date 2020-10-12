@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T09:33:59.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="PBVrsQ4qNXP0tKQtJTeq" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T10:25:42.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="heK48PjTtj7Jxom4VADp" version="13.7.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1662" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -65,8 +65,8 @@
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-110" value="groepen IN AD bijgekomen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LgLI5eTJBDL82sEV2Kiy-111" value="Heeft leden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="706" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="LgLI5eTJBDL82sEV2Kiy-111" value="Heeft leden, &lt;br&gt;aantal en wie" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="706" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LgLI5eTJBDL82sEV2Kiy-112" value="heeft CMDB entry" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="600" width="120" height="60" as="geometry" />
@@ -175,6 +175,9 @@
         </mxCell>
         <mxCell id="NY3luSExtvRI_ftLx-1Z-2" value="groepen zijn in AD aangepast" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odVAMg5hxAixqyP3v7NP-6" value="GDATDA:27017&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="260" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
