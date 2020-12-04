@@ -1,1 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T10:14:16.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="8m-U1mlm9nR01EIsNuPa" version="13.10.8" type="github"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-04T12:16:21.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qOw_1jbdX4BL5s78Y9--" version="13.10.8" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="2050" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DOqNvv8SxH3wSsv20kP--1" value="nieuwe medewerker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--5" value="Pre-onboarding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--8" value="" style="shape=link;html=1;width=0.6666666666666661;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="159.75" y="240" as="sourcePoint" />
+            <mxPoint x="160.25" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="600" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--16" value="In-dienst" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--17" value="uit-dienst" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--20" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--21" value="" style="shape=link;html=1;width=0.6666666666666661;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="239.75" y="240" as="sourcePoint" />
+            <mxPoint x="240.25" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--22" value="" style="shape=link;html=1;width=0.6666666666666661;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="590" y="240" as="sourcePoint" />
+            <mxPoint x="590.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--24" value="Oud medewerker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--25" value="tijd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DOqNvv8SxH3wSsv20kP--27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--27" value="@&amp;nbsp;Leidinggevende ontvangt&lt;br&gt;login gegevens nieuwe medewerkers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="130" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="240" as="targetPoint" />
+            <mxPoint x="420" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="targetPoint" />
+            <mxPoint x="420" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--28" value="@&lt;br&gt;Leidinggevende&lt;br&gt;einde contract in 30 en 7 dagen voor vertrek. Contract kan in deze periode verlengt worden" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--29" value="" style="shape=link;html=1;width=0.6666666666666661;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="440" y="240" as="sourcePoint" />
+            <mxPoint x="440.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--30" value="-30 dagen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--31" value="" style="shape=link;html=1;width=0.6666666666666661;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="sourcePoint" />
+            <mxPoint x="521" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--32" value="-7&lt;br&gt;dagen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DOqNvv8SxH3wSsv20kP--33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--33" value="@&amp;nbsp;Leidinggevende&lt;br&gt;account mdw dichtgezet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="130" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOqNvv8SxH3wSsv20kP--35" value="Medewerker kan aanvraag doen voor smartphone of thuiswerken" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
